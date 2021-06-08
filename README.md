@@ -3,7 +3,7 @@
 https://katchion13.github.io/Simple_MOOC/design-views-urls-templates/design
 
 
-カスタム後(途中)
-https://katchion13.github.io/japanese
+カスタム後(途中)<br>
+https://katchion13.github.io/日本語ページ
 
 
