@@ -1,5 +1,5 @@
 # Simple_MOOC
-設定OK、デスクから直ではいけるコードでもここでは他のサイトのリンクが場合によっては使えない。<br>
+設定OK、デスクから直ではいけるコードでもここでは他のサイトのリンクが場合によっては使えないみたい。<br>
 https://katchion13.github.io/Simple_MOOC/design-views-urls-templates/design
 
 
