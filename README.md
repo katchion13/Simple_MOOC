@@ -4,6 +4,6 @@ https://katchion13.github.io/Simple_MOOC/design-views-urls-templates/design
 
 
 カスタム後(途中)<br>
-https://katchion13.github.io/日本語ページ
+https://katchion13.github.io/Simple_MOOC/日本語ページ
 
 
