@@ -3,51 +3,51 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-body {
+body1 {
     margin: 0 auto;
     line-height: 1.7em;
 }
-.content {
+.content1 {
     padding-top: 2em;
 }
-.l-box {
+.l-box1 {
     padding: 1em;
 }
-.header {
+.header1 {
     margin: 0 0;
 }
-.header .pure-menu {
+.header1 .pure-menu {
     padding: 0.5em;
 }
-.header .pure-menu li a:hover,
-.header .pure-menu li a:focus {
+.header1 .pure-menu li a:hover,
+.header1 .pure-menu li a:focus {
     background: none;
     border: none;
     color: #aaa;
 }
-body .primary-button {
+body1 .primary-button {
     background: #02a6eb;
     color: #fff;
 }
-.splash {
+.splash1 {
     margin: 0 auto;
     padding: 1.5em 1em 0;
     background: #eee;
 }
-.splash .splash-head {
+.splash1 .splash-head {
     font-size: 300%;
     margin: 0em 0;
     line-height: 1.2em;
 }
-.splash .splash-subhead {
+.splash1 .splash-subhead {
     color: #999;
     font-weight: 300;
     line-height: 1.4em;
 }
-.splash .primary-button {
+.splash1 .primary-button {
     font-size: 150%;
 }
-.content .content-subhead {
+.content1 .content-subhead {
     color: #999;
     padding-bottom: 0.3em;
     text-transform: uppercase;
@@ -55,21 +55,21 @@ body .primary-button {
     border-bottom: 2px solid #eee;
     display: inline-block;
 }
-.content .content-ribbon {
+.content1 .content-ribbon {
     margin: 3em;
     border-bottom: 1px solid #eee;
 }
-.ribbon {
+.ribbon1 {
     background: #eee;
     text-align: center;
     padding: 2em;
     color: #999;
 }
-.ribbon h2 {
+.ribbon1 h2 {
     display: inline;
     font-weight: normal;
 }
-.footer {
+.foote {
     background: #111;
     color: #666;
     text-align: center;
